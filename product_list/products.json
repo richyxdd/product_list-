@@ -1,0 +1,11 @@
+
+[
+    {"name": "Vintage Korn T-shirt", "description": "Distressed Black T-shirt", "price": "$35", "categories": ["clothing", "vintage"]},
+    {"name": "Valentino Wallet", "description": "Leather VLogo Bifold Wallet", "price": "$500", "categories": ["accessories"]},
+    {"name": "JBL Speaker", "description": "Portable waterproof Bluetooth speaker", "price": "$80", "categories": ["electronics"]},
+    {"name": "Carhart Cargos", "description": "Denim Cargos with a Baggy Fit", "price": "$60", "categories": ["clothing"]},
+    {"name": "Supreme Tool Crowbar", "description": "Issa Red Crowbar :3", "price": "$220", "categories": ["tool", "vintage"]},
+    {"name": "Feet Slippers", "description": "Lightweight and breathable feet for your feet", "price": "$70", "categories": ["clothing"]},
+    {"name": "Smartwatch", "description": "Advanced fitness tracking smartwatch", "price": "$200", "categories": ["electronics"]},
+    {"name": "Leather Handbag", "description": "Elegant handcrafted leather handbag", "price": "$150", "categories": ["accessories", "vintage"]}
+]

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="products.css"?>
+<products>
+    <product>
+        <name>Vintage Korn T-shirt</name>
+        <description>Distressed Black T-shirt</description>
+        <price>$35</price>
+        <categories>
+            <category>clothing</category>
+            <category>vintage</category>
+        </categories>
+    </product>
+    <product>
+        <name>Valentino Wallet</name>
+        <description>Leather VLogo Bifold Wallet</description>
+        <price>$500</price>
+        <categories>
+            <category>accessories</category>
+        </categories>
+    </product>
+    <product>
+        <name>JBL Speaker</name>
+        <description>Portable waterproof Bluetooth speaker</description>
+        <price>$80</price>
+        <categories>
+            <category>electronics</category>
+        </categories>
+    </product>
+    <product>
+        <name>Carhart Cargos</name>
+        <description>Denim Cargos with a Baggy Fit</description>
+        <price>$60</price>
+        <categories>
+            <category>clothing</category>
+        </categories>
+    </product>
+    <product>
+        <name>Supreme Tool Crowbar</name>
+        <description>Issa Red Crowbar :3</description>
+        <price>$220</price>
+        <categories>
+            <category>tool</category>
+            <category>vintage</category>
+        </categories>
+    </product>
+    <product>
+        <name>Feet Slippers</name>
+        <description>Lightweight and breathable feet for your feet</description>
+        <price>$70</price>
+        <categories>
+            <category>clothing</category>
+        </categories>
+    </product>
+    <product>
+        <name>Smartwatch</name>
+        <description>Advanced fitness tracking smartwatch</description>
+        <price>$200</price>
+        <categories>
+            <category>electronics</category>
+        </categories>
+    </product>
+    <product>
+        <name>Leather Handbag</name>
+        <description>Elegant handcrafted leather handbag</description>
+        <price>$150</price>
+        <categories>
+            <category>accessories</category>
+            <category>vintage</category>
+        </categories>
+    </product>
+</products>
